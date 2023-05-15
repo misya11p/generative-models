@@ -2,7 +2,7 @@
 
 生成モデルを理解してまとめていく。
 
-確率モデリングの視点から理解する。確率モデルについては別でまとめてある（https://github.com/misya11p/probabilistic-modeling）
+確率モデリングの視点から理解する。確率モデルについては別でまとめてある：https://github.com/misya11p/probabilistic-modeling
 
 ↓予定（？）
 
